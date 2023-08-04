@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T13:49:09.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="r7effFjyfz_rhWDno_v4" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T14:04:36.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BRPBSkR2wEqg7XRlkUOX" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1199" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="fW7hzmM9_kheXjzH3Q9S-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;C&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fW7hzmM9_kheXjzH3Q9S-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;D&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fW7hzmM9_kheXjzH3Q9S-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;D&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="260" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fW7hzmM9_kheXjzH3Q9S-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;E&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="fW7hzmM9_kheXjzH3Q9S-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;hub2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fW7hzmM9_kheXjzH3Q9S-25" value="&lt;b&gt;No p2mp-policy on D&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="230" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
